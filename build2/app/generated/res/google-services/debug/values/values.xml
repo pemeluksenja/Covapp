@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">489573400549-gq6i85jsarbb1l9ru572q3k45kb7ucr4.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">489573400549</string>
+    <string name="google_api_key" translatable="false">AIzaSyDP5zlMbNDmpm-7QZXwTEOdJ94FODG85Lc</string>
+    <string name="google_app_id" translatable="false">1:489573400549:android:8859d105c0f5013107790c</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDP5zlMbNDmpm-7QZXwTEOdJ94FODG85Lc</string>
+    <string name="google_storage_bucket" translatable="false">covapp-67e12.appspot.com</string>
+    <string name="project_id" translatable="false">covapp-67e12</string>
+</resources>
